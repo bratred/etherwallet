@@ -454,6 +454,11 @@
 "decimal":18,
 "type":"default"
 },{
+"address":"0x28a40acF39b1D3C932f42dD8068ad00A5Ad6448F",
+"symbol":"LDM",
+"decimal":18,
+"type":"default"
+},{
 "address":"0xff18dbc487b4c2e3222d115952babfda8ba52f5f",
 "symbol":"LIFE",
 "decimal":18,
